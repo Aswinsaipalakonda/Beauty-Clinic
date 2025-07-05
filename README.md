@@ -4,8 +4,8 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 
 ---
 
-## 🌸 Live Preview
+## 🔗 Live Preview
 
-[🔗 Click here to view the live site](https://aswinsaipalakonda.github.io/Beauty-Clinic/)
+(https://aswinsaipalakonda.github.io/Beauty-Clinic/)
 
 
