@@ -21,7 +21,7 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 - 🗺️ **Location, Hours & Google Maps Embed**  
 - 📱 Fully **responsive design** across all devices  
 - 🌐 **Social Media & WhatsApp Integration**  
-- 🔐 **SEO-ready with optimized meta tags**
+- 🔐 **SEO-ready** with optimized meta tags
 
 ---
 
@@ -40,6 +40,18 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 📁 glow-and-grace/
 ├── index.html
 └── README.md
+
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aswinsaipalakonda/Beauty-Clinic.git
+
+2. Open the index.html file in your browser:
+
 
 
 
