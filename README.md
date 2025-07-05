@@ -21,7 +21,7 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 - 🗺️ **Location, Hours & Google Maps Embed**  
 - 📱 Fully **responsive design** across all devices  
 - 🌐 **Social Media & WhatsApp Integration**  
-- 🔐 SEO-ready with optimized meta tags
+- 🔐 **SEO-ready with optimized meta tags**
 
 
 
