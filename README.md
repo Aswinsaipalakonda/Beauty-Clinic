@@ -8,4 +8,21 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 
 👉🏻 (https://aswinsaipalakonda.github.io/Beauty-Clinic/)
 
+---
+
+## ✨ Features
+
+- 💅 **Beautiful Hero Section** with smooth animations and call-to-action buttons  
+- 🧖‍♀️ **Service Showcase** for Hair, Skin, Makeup, Spa & Nails  
+- 📸 **Makeover Gallery** with lightbox & category filters  
+- 📅 **Appointment Booking Form** with clean UI  
+- ⭐ **Client Testimonials Carousel**  
+- 👩‍🎨 **Stylist Team Section** with hover cards  
+- 🗺️ **Location, Hours & Google Maps Embed**  
+- 📱 Fully **responsive design** across all devices  
+- 🌐 **Social Media & WhatsApp Integration**  
+- 🔐 SEO-ready with optimized meta tags
+
+
+
 
