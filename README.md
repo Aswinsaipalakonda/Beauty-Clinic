@@ -23,6 +23,25 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 - 🌐 **Social Media & WhatsApp Integration**  
 - 🔐 **SEO-ready with optimized meta tags**
 
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3 (Flexbox & Grid)  
+- JavaScript (Vanilla JS)  
+- Optional: Bootstrap or Tailwind (if added)  
+- Font Awesome for icons  
+- Google Fonts for elegant typography
+
+---
+
+## 📂 Folder Structure
+
+📁 glow-and-grace/
+├── index.html
+└── README.md
+
 
 
 
