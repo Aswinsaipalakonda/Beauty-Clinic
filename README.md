@@ -55,7 +55,8 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 2. Open the index.html file in your browser:
    ```bash
    cd Beauty-Clinic
-   open index.html
+
+3. Open index.html
 
 ---
 
