@@ -37,8 +37,10 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 
 ## 📂 Folder Structure
 
-📁 glow-and-grace/
+📁 Beauty-Clinic/
+
 ├── index.html
+
 └── README.md
 
 
@@ -51,6 +53,14 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
    git clone https://github.com/Aswinsaipalakonda/Beauty-Clinic.git
 
 2. Open the index.html file in your browser:
+   ```bash
+   cd Beauty-Clinic
+   open index.html
+
+---
+
+Designed with 💖 by Aswin Sai Palakonda
+
 
 
 
