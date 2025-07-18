@@ -61,6 +61,4 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 
 Designed with 💖 by Aswin Sai Palakonda
 
-Using AI 
-
 
