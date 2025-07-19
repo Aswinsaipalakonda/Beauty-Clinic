@@ -22,8 +22,7 @@ Welcome to the official repository for **Glow & Grace**, a sleek, modern, and fu
 - 📱 Fully **responsive design** across all devices  
 - 🌐 **Social Media & WhatsApp Integration**  
 - 🔐 **SEO-ready** with optimized meta tags
-- SEM - Search Engine Marketing 🔍 
-  
+- SEM - Search Engine Marketing 
 ---
 
 ## 🛠️ Tech Stack
